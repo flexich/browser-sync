@@ -5,7 +5,7 @@ browser-sync start --server --files "php/*.php,css/*.css,js/*.js,html/*.html,*.*
 codesource
 {
     "show_definitions": false,
-    "auto_complete": false,
+    "auto_complete": ture,
     "bold_folder_labels": true,
     "color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
     "fold_buttons": false,
